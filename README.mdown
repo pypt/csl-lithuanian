@@ -1,3 +1,21 @@
+# Turinys
+
+- [Pradžia](#pradzia)
+- [Parsisiuntimas](#parsisiuntimas)
+- [Įdiegimas](#idiegimas)
+	- ["Zotero"](#idiegimas_zotero)
+	- [Bibliografijos stiliaus failas](#idiegimas_stilius)
+- [Naudojimas](#naudojimas)
+	- [Bibliografinių nuorodų pridėjimas](#naudojimas_pridejimas)
+		- [Knygos pridėjimas](#naudojimas_pridejimas_knyga)
+		- [Pridėjimas pagal ISBN](#naudojimas_pridejimas_isbn)
+		- [Tinklalapio pridėjimas](#naudojimas_pridejimas_tinklalapis)
+	- [Nuorodų iškėlimas į rengiamą darbą](#naudojimas_iskelimas)
+- [Klaidos, pastabos](#klaidos_pastabos)
+
+
+<a name="pradzia"></a>
+
 # Pradžia
 
 Čia yra ISO 690 (LST 690) bibliografijos stiliaus failas [CSL](http://citationstyles.org/) formatu ir pavyzdinė instrukcija, kaip tą failą panaudoti.
@@ -11,10 +29,14 @@ gauti (daugmaž) pagal ISO 690 (LST 690) standartą (metodinius rašto darbų nu
 ![ISO 690 (LST 690) suformatuota bibliografija](csl-lithuanian/blob/master/imgs/bibliography-export.png?raw=true)
 
 
+<a name="parsisiuntimas"></a>
+
 # Parsisiuntimas
 
 Parsisiųskite bibliografijos stiliaus failą: [**`iso690-numeric-lt.csl`**](csl-lithuanian/blob/master/iso690-numeric-lt.csl?raw=true) (dešiniu pelės mygtuku -> *Save Target As...*).
 
+
+<a name="idiegimas"></a>
 
 # Įdiegimas
 
@@ -24,6 +46,8 @@ Pavyzdyje demonstruojama, kaip bibliografijos stiliaus failą panaudoti su progr
 
 Ši instrukcija gali atrodyti sudėtinga, bet ji tikrai tokia nėra.
 
+
+<a name="idiegimas_zotero"></a>
 
 ## 1. Parsisiųskite ir įdiekite "Zotero"
 
@@ -54,7 +78,9 @@ Iliustruotas "Zotero for Firefox" įdiegimas:
 !["Zotero" ikona](csl-lithuanian/blob/master/imgs/zotero-install-06.png?raw=true)
 
 
-## 2. Parsisiųskite ir įdiekite ISO 690 bibliografijos stiliaus failą
+<a name="idiegimas_stilius"></a>
+
+## 2. Parsisiųskite ir įdiekite bibliografijos stiliaus failą
 
 Pirmiausia parsisiųskite bibliografijos stiliaus failą: [`iso690-numeric-lt.csl`](csl-lithuanian/blob/master/iso690-numeric-lt.csl?raw=true) (dešiniu pelės mygtuku -> *Save Target As...*).
 
@@ -85,7 +111,11 @@ Bibliografijos stilių sąraše turėtumėte matyti ką tik pridėtą naująjį 
 Uždarykite nustatymų langą.
 
 
+<a name="naudojimas"></a>
+
 # Naudojimas
+
+<a name="naudojimas_pridejimas"></a>
 
 ## 1. Pridėkite keletą bibliografinių nuorodų į "Zotero"
 
@@ -94,6 +124,9 @@ Atsidarykite programą "Zotero" paspaudę ikoną dešinėje apačioje:
 ![Pagrindinis "Zotero" langas](csl-lithuanian/blob/master/imgs/zotero-add-01.png?raw=true)
 
 (Galite perskaityti ir po to ištrinti bibliografinę nuorodą *"Zotero Quick Start Guide"*. Aš tiesiog ištryniau.)
+
+
+<a name="naudojimas_pridejimas_knyga"></a>
 
 ### Paprastas pridėjimas
 
@@ -109,6 +142,9 @@ Dešinėje užpildžiau knygos parametrus (pavadinimą, autorių, leidėją, met
 
 ![Užpildyti knygos parametrai](csl-lithuanian/blob/master/imgs/zotero-add-04.png?raw=true)
 
+
+<a name="naudojimas_pridejimas_isbn"></a>
+
 ### Pridėjimas pagal ISBN
 
 Jeigu žinote knygos ar kito leidinio ISBN, galite pridėti tiesiog jį, o programa "Zotero" automatiškai užpildys visus kitus laukus.
@@ -121,12 +157,17 @@ Programa pati užpildė likusius laukus (pavadinimą, autorių ir kt.):
 
 ![Pridėta knyga pagal ISBN](csl-lithuanian/blob/master/imgs/zotero-add-06.png?raw=true)
 
+
+<a name="naudojimas_pridejimas_tinklalapis"></a>
+
 ### Tinklalapio pridėjimas
 
 Taip pat bibliografinių nuorodų sąraše pridėsiu atsitiktinį straipsnį iš naujienų portalo (šaltinio tipas - *Web Page*):
 
 ![Tinklalapio pridėjimas](csl-lithuanian/blob/master/imgs/zotero-add-07.png?raw=true)
 
+
+<a name="naudojimas_iskelimas"></a>
 
 ## 2. Iškelkite bibliografines nuorodas iš "Zotero" į rengiamą dokumentą
 
@@ -147,3 +188,10 @@ Aš pasirinkau iškėlimą į RTF bylą. Suformatuotos bibliografinės nuorodos 
 ![Suformatuotos bibliografinės nuorodos](csl-lithuanian/blob/master/imgs/zotero-export-02.png?raw=true)
 
 Šias nuorodas galiu nukopijuoti į savo rengiamą kursinį, bakalaurinį ar kitokio tipo darbą.
+
+
+<a name="klaidos_pastabos"></a>
+
+# Klaidos pastabos
+
+Rašykite [linas.valiukas@kf.stud.vu.lt](mailto:linas.valiukas@kf.stud.vu.lt).
