@@ -1,0 +1,157 @@
+Pradžia
+=======
+
+Čia yra ISO 690 (LST 690) bibliografijos stiliaus failas [CSL](http://citationstyles.org/) formatu ir pavyzdinė instrukcija, kaip tą failą panaudoti.
+
+Žmonių kalba: galite panaudoti šį failą su įvairiomis bibliografinių įrašų tvarkymo programomis, ir šitaip iš programoje sukurto bibliografijos sąrašo:
+
+![Bibliografijos sąrašas "Zotero" programoje](imgs/bibliography-list.png)
+
+gauti (daugmaž) pagal ISO 690 (LST 690) standartą (metodinius rašto darbų nurodymus) suformatuotą bibliografinių nuorodų sąrašą:
+
+![ISO 690 (LST 690) suformatuota bibliografija](imgs/bibliography-export.png)
+
+
+Parsisiuntimas
+==============
+
+Parsisiųskite bibliografijos stiliaus failą: [`iso690-numeric-lt.csl`](iso690-numeric-lt.csl).
+
+
+Įdiegimas
+=========
+
+Pavyzdyje demonstruojama, kaip bibliografijos stiliaus failą panaudoti su programa "Zotero".
+
+["Zotero"](http://www.zotero.org/) yra *free, easy-to-use tool to help you collect, organize, cite, and share your research sources* - viena iš bibliografinių įrašų tvarkymo programų, kurias naudoja studentai ir mokslininkai įvairiuose universitetuose. Su ja galima patogiai tvarkyti mokslo darbui (kursiniui, bakalauriniui ir kt.) renkamą bibliografiją ir vėliau ją įkelti į patį darbą. Programa yra nekomercinė ir nemokama.
+
+Ši instrukcija gali atrodyti sudėtinga, bet ji tikrai tokia nėra.
+
+
+1. Parsisiųskite ir įdiekite "Zotero"
+-------------------------------------
+
+Parsisiųskite ir įsidiekite programą "Zotero" iš http://www.zotero.org/ į savo kompiuterį.
+
+Yra kelios šios programos versijos:
+
+* "Zotero for Firefox", kuris yra naršyklės "Firefox" priedas,
+* "Zotero Standalone", kuris veikia kaip atskira kompiuterio programa,
+* ir dar kažkokios versijos naršyklėms "Chrome", "Safari" ir pan.
+
+Kuo jos skiriasi, aš netyrinėjau. Aš pasirinkau "Zotero for Firefox", kurios veikimas ir aprašytas šiame puslapyje. Instrukcija turėtų tikti ir kitoms programos versijoms.
+
+Iliustruotas "Zotero for Firefox" įdiegimas:
+
+![Pasirinkite "Zotero for Firefox"](imgs/zotero-install-01.png)
+
+![Leiskite įdiegti iš zotero.org](imgs/zotero-install-02.png)
+
+![Siunčiama programa "Zotero"](imgs/zotero-install-03.png)
+
+![Įdiekite "Zotero"](imgs/zotero-install-04.png)
+
+![Perkraukite "Firefox" naršyklę](imgs/zotero-install-05.png)
+
+Įdiegtą programą "Zotero" galėsite pasiekti iš "Firefox" naršyklės dešiniojo apatinio kampo:
+
+!["Zotero" ikona](imgs/zotero-install-06.png)
+
+
+2. Parsisiųskite ir įdiekite ISO 690 bibliografijos stiliaus failą
+------------------------------------------------------------------
+
+Pirmiausia parsisiųskite bibliografijos stiliaus failą: [`iso690-numeric-lt.csl`](iso690-numeric-lt.csl).
+
+Tuomet "Firefox" naršyklėje eikite į *Tools* -> *Add-ons* (dar gali vadintis *Priedai* ar panašiai):
+
+![Tools -> Add-ons](imgs/zotero-style-01.png)
+
+Iš *add-on'ų* (priedų) sąrašo išsirinkite *Zotero" ir spauskite "Preferences" ("Nustatymai" ar panašiai):
+
+![Zotero -> Preferences](imgs/zotero-style-02.png)
+
+Atsidarė "Zotero" nustatymų langas. Jo pagalba jums reikia įdiegti ISO 690 stiliaus failą. Spauskite "Cite", tada "Styles:
+
+![Cite](imgs/zotero-style-03.png)
+
+"Zotero" jau platinamas su keletu bibliografijos stilių, kurios naudojamos įvairiose kitose akademinėse institucijose "už balos". Prie jų pridėkite lietuvišką ISO 690 stilių paspausdami pliuso ženklą ir pasirinkdami parsisiųstą stiliaus failą `iso690-numeric-lt.csl`:
+
+![Pridėkite ISO 690 stilių](imgs/zotero-style-04.png)
+
+Patvirtinkite, kad tikrai norite pridėti stiliaus failą:
+
+![Pridėkite ISO 690 stilių #2](imgs/zotero-style-05.png)
+
+Bibliografijos stilių sąraše turėtumėte matyti ką tik pridėtą naująjį ISO 690 stilių:
+
+![ISO 690 stilius sąraše](imgs/zotero-style-06.png)
+
+Uždarykite nustatymų langą.
+
+
+Naudojimas
+==========
+
+1. Pridėkite keletą bibliografinių nuorodų į "Zotero"
+-----------------------------------------------------
+
+Atsidarykite programą "Zotero" paspaudę ikoną dešinėje apačioje:
+
+![Pagrindinis "Zotero" langas](imgs/zotero-add-01.png)
+
+(Galite perskaityti ir po to ištrinti bibliografinę nuorodą *"Zotero Quick Start Guide"*. Aš tiesiog ištryniau.)
+
+### Paprastas pridėjimas
+
+Paspaudę *"New Item"* mygtuką, pamatysite įvairių šaltinių tipų sąrašą. Pavyzdžiui, galite pridėti knygą ("Book"), knygos dalį ("Book Section"), straipsnį iš mokslinio žurnalo ("Journal Article"), įrašą iš enciklopedijos ("More" -> "Encyclopedia Article") ir daug kitų šaltinių:
+
+!["Zotero" šaltinių tipai](imgs/zotero-add-02.png)
+
+Aš pirmiausia pridėjau knygą:
+
+![Pridedama knyga](imgs/zotero-add-03.png)
+
+Dešinėje užpildžiau knygos parametrus (pavadinimą, autorių, leidėją, metus, puslapių skaičių, ISBN ir kt.):
+
+![Užpildyti knygos parametrai](imgs/zotero-add-04.png)
+
+### Pridėjimas pagal ISBN
+
+Jeigu žinote knygos ar kito leidinio ISBN, galite pridėti tiesiog jį, o programa "Zotero" automatiškai užpildys visus kitus laukus.
+
+Tingiu rašyti, todėl paspaudžiau *"Add Item by Identifier"* ir nukopijavau McLuhan'o "Understanding Media" ISBN'ą:
+
+![Knygos pridėjimas pagal ISBN](imgs/zotero-add-05.png)
+
+Programa pati užpildė likusius laukus (pavadinimą, autorių ir kt.):
+
+![Pridėta knyga pagal ISBN](imgs/zotero-add-06.png)
+
+### Tinklalapio pridėjimas
+
+Taip pat bibliografinių nuorodų sąraše pridėsiu atsitiktinį straipsnį iš naujienų portalo (šaltinio tipas - *Web Page*):
+
+![Tinklalapio pridėjimas](imgs/zotero-add-07.png)
+
+
+2. Iškelkite bibliografines nuorodas iš "Zotero" į rengiamą dokumentą
+---------------------------------------------------------------------
+
+Kai norėsite "Zotero" programoje parengtą bibliografinių nuorodų sąrašą iškelti į savo rengiamą dokumentą (kursinį, bakalaurinį ar kt.), programa suformatuos nuorodas pagal ISO 690 standartą, taigi bibliografinės nuorodos (daugmaž) atitiks [VU KF rašto darbų metodinius nurodymus](http://www.kf.vu.lt/uploads/docs/Studiju%20dokumentai/metodiniai_nurodymai090204.pdf).
+
+1. Pažymėkite vieną, kelias arba visas bibliografines nuorodas, spauskite dešiniuoju pelės mygtuku ir pasirinkite *"Create Bibliography from Selected Items..."*:
+
+2. Pažymėkite ISO-690 citavimo stilių ir pasirinkite, kur iškelti bibliografines nuorodas:
+	* į RTF dokumentą, kurį po to galėsite nukopijuoti į Microsoft Word, arba
+	* į HTML dokumentą, arba
+	* nukopijuoti į *iškarpinę* (angl. *Clipboard*), taigi vėliau galėsite bibliografines nuorodas kažkur įklijuoti (angl. *Paste*), arba
+	* spausdinti bibliografines nuorodas.
+
+![Bibliografinių nuorodų iškėlimas](imgs/zotero-export-01.png)
+
+Aš pasirinkau iškėlimą į RTF bylą. Suformatuotos bibliografinės nuorodos byloje atrodo šitaip:
+
+![Suformatuotos bibliografinės nuorodos](imgs/zotero-export-02.png)
+
+Šias nuorodas galiu nukopijuoti į savo rengiamą kursinį, bakalaurinį ar kitokio tipo darbą.
