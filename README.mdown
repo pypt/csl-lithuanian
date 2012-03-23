@@ -11,6 +11,7 @@
 		- [Pridėjimas pagal ISBN](#naudojimas_pridejimas_isbn)
 		- [Tinklalapio pridėjimas](#naudojimas_pridejimas_tinklalapis)
 	- [Nuorodų iškėlimas į rengiamą darbą](#naudojimas_iskelimas)
+- [Kita](#kita)
 - [Klaidos, pastabos](#klaidos_pastabos)
 
 
@@ -190,8 +191,18 @@ Aš pasirinkau iškėlimą į RTF bylą. Suformatuotos bibliografinės nuorodos 
 Šias nuorodas galiu nukopijuoti į savo rengiamą kursinį, bakalaurinį ar kitokio tipo darbą.
 
 
+<a name="kita"></a>
+
+# Kita
+
+* Programa "Zotero" turi daug naudingų funkcijų. Aktualiausios iš jų:
+	* Programa gali laikyti atsarginę bibliografinių nuorodų sąrašo kopiją internete. Tam reikės [užsiregistuoti](https://www.zotero.org/user/register/).
+	* Programa gali veikti tiesiai "Microsoft Word" dokumentų rengimo programoje. Tam reikės įdiegti [šį papildymą](http://www.zotero.org/support/word_processor_integration).
+* Jeigu nepatiko programa "Zotero", šį bibliografinių nuorodų stiliaus failą galite panaudoti su kitomis programomis, pavyzdžiui ["Mendeley"](http://www.mendeley.com/), ["Papers"](http://www.mekentosj.com/papers/), ["Qiqqa"](http://www.qiqqa.com/) ar kt.
+
+
 <a name="klaidos_pastabos"></a>
 
-# Klaidos pastabos
+# Klaidos, pastabos
 
 Rašykite [linas.valiukas@kf.stud.vu.lt](mailto:linas.valiukas@kf.stud.vu.lt).
