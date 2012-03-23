@@ -1,6 +1,7 @@
 # Turinys
 
 - [Pradžia](#pradzia)
+- [Kodėl gerai?](#kodel_gerai)
 - [Parsisiuntimas](#parsisiuntimas)
 - [Įdiegimas](#idiegimas)
 	- ["Zotero"](#idiegimas_zotero)
@@ -28,6 +29,15 @@
 gauti (daugmaž) pagal ISO 690 (LST 690) standartą (metodinius rašto darbų nurodymus) suformatuotą bibliografinių nuorodų sąrašą:
 
 ![ISO 690 (LST 690) suformatuota bibliografija](csl-lithuanian/blob/master/imgs/bibliography-export.png?raw=true)
+
+
+<a name="kodel_gerai"></a>
+
+# Kodėl gerai?
+
+Renkant bibliografiją savo darbui (kursiniui, bakalauriniui, ...) ne "rankomis", bet į specialią bibliografijos tvarkymo programą, nebereikia kaskart galvoti apie tai, kaip bibliografinę nuorodą užrašyti pagal [VU KF rašto darbų metodinius nurodymus](http://www.kf.vu.lt/uploads/docs/Studiju%20dokumentai/metodiniai_nurodymai090204.pdf).
+
+Naudojantis programa, bibliografiją įvesti galima užpildant atitinkamus laikus (knygos autorių, pavadinimą, išleidimo metus, puslapių skaičių ir kt.). Vėliau jau pati programa suformatuoja nuorodą pagal reikalavimus - ją be pakeitimų (dažniausiai) galima įkelti į savo rengiamą akademinį darbą.
 
 
 <a name="parsisiuntimas"></a>
