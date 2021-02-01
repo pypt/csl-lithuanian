@@ -24,11 +24,11 @@
 
 Žmonių kalba: galite panaudoti šį failą su įvairiomis bibliografinių įrašų tvarkymo programomis, ir šitaip iš programoje sukurto bibliografijos sąrašo:
 
-![Bibliografijos sąrašas "Zotero" programoje](csl-lithuanian/blob/master/imgs/bibliography-list.png?raw=true)
+![Bibliografijos sąrašas "Zotero" programoje](imgs/bibliography-list.png)
 
 gauti (daugmaž) pagal ISO 690 (LST 690) standartą (metodinius rašto darbų nurodymus) suformatuotą bibliografinių nuorodų sąrašą:
 
-![ISO 690 (LST 690) suformatuota bibliografija](csl-lithuanian/blob/master/imgs/bibliography-export.png?raw=true)
+![ISO 690 (LST 690) suformatuota bibliografija](imgs/bibliography-export.png)
 
 
 <a name="kodel_gerai"></a>
@@ -44,7 +44,7 @@ Naudojantis programa, bibliografiją įvesti galima užpildant atitinkamus laiku
 
 # Parsisiuntimas
 
-Parsisiųskite bibliografijos stiliaus failą: [**`iso690-numeric-lt.csl`**](csl-lithuanian/blob/master/iso690-numeric-lt.csl?raw=true) (dešiniu pelės mygtuku -> *Save Target As...*).
+Parsisiųskite bibliografijos stiliaus failą: [**`iso690-numeric-lt.csl`**](iso690-numeric-lt.csl) (dešiniu pelės mygtuku -> *Save Target As...*).
 
 
 <a name="idiegimas"></a>
@@ -74,50 +74,50 @@ Kuo jos skiriasi, aš netyrinėjau. Aš pasirinkau "Zotero for Firefox", kurios 
 
 Iliustruotas "Zotero for Firefox" įdiegimas:
 
-![Pasirinkite "Zotero for Firefox"](csl-lithuanian/blob/master/imgs/zotero-install-01.png?raw=true)
+![Pasirinkite "Zotero for Firefox"](imgs/zotero-install-01.png)
 
-![Leiskite įdiegti iš zotero.org](csl-lithuanian/blob/master/imgs/zotero-install-02.png?raw=true)
+![Leiskite įdiegti iš zotero.org](imgs/zotero-install-02.png)
 
-![Siunčiama programa "Zotero"](csl-lithuanian/blob/master/imgs/zotero-install-03.png?raw=true)
+![Siunčiama programa "Zotero"](imgs/zotero-install-03.png)
 
-![Įdiekite "Zotero"](csl-lithuanian/blob/master/imgs/zotero-install-04.png?raw=true)
+![Įdiekite "Zotero"](imgs/zotero-install-04.png)
 
-![Perkraukite "Firefox" naršyklę](csl-lithuanian/blob/master/imgs/zotero-install-05.png?raw=true)
+![Perkraukite "Firefox" naršyklę](imgs/zotero-install-05.png)
 
 Įdiegtą programą "Zotero" galėsite pasiekti iš "Firefox" naršyklės dešiniojo apatinio kampo:
 
-!["Zotero" ikona](csl-lithuanian/blob/master/imgs/zotero-install-06.png?raw=true)
+!["Zotero" ikona](imgs/zotero-install-06.png)
 
 
 <a name="idiegimas_stilius"></a>
 
 ## 2. Parsisiųskite ir įdiekite bibliografijos stiliaus failą
 
-Pirmiausia parsisiųskite bibliografijos stiliaus failą: [`iso690-numeric-lt.csl`](csl-lithuanian/blob/master/iso690-numeric-lt.csl?raw=true) (dešiniu pelės mygtuku -> *Save Target As...*).
+Pirmiausia parsisiųskite bibliografijos stiliaus failą: [`iso690-numeric-lt.csl`](iso690-numeric-lt.csl) (dešiniu pelės mygtuku -> *Save Target As...*).
 
 Tuomet "Firefox" naršyklėje eikite į *Tools* -> *Add-ons* (dar gali vadintis *Priedai* ar panašiai):
 
-![Tools -> Add-ons](csl-lithuanian/blob/master/imgs/zotero-style-01.png?raw=true)
+![Tools -> Add-ons](imgs/zotero-style-01.png)
 
 Iš *add-on'ų* (priedų) sąrašo išsirinkite *Zotero" ir spauskite "Preferences" ("Nustatymai" ar panašiai):
 
-![Zotero -> Preferences](csl-lithuanian/blob/master/imgs/zotero-style-02.png?raw=true)
+![Zotero -> Preferences](imgs/zotero-style-02.png)
 
 Atsidarė "Zotero" nustatymų langas. Jo pagalba jums reikia įdiegti ISO 690 stiliaus failą. Spauskite "Cite", tada "Styles:
 
-![Cite](csl-lithuanian/blob/master/imgs/zotero-style-03.png?raw=true)
+![Cite](imgs/zotero-style-03.png)
 
 "Zotero" jau platinamas su keletu bibliografijos stilių, kurios naudojamos įvairiose kitose akademinėse institucijose "už balos". Prie jų pridėkite lietuvišką ISO 690 stilių paspausdami pliuso ženklą ir pasirinkdami parsisiųstą stiliaus failą `iso690-numeric-lt.csl`:
 
-![Pridėkite ISO 690 stilių](csl-lithuanian/blob/master/imgs/zotero-style-04.png?raw=true)
+![Pridėkite ISO 690 stilių](imgs/zotero-style-04.png)
 
 Patvirtinkite, kad tikrai norite pridėti stiliaus failą:
 
-![Pridėkite ISO 690 stilių #2](csl-lithuanian/blob/master/imgs/zotero-style-05.png?raw=true)
+![Pridėkite ISO 690 stilių #2](imgs/zotero-style-05.png)
 
 Bibliografijos stilių sąraše turėtumėte matyti ką tik pridėtą naująjį ISO 690 stilių:
 
-![ISO 690 stilius sąraše](csl-lithuanian/blob/master/imgs/zotero-style-06.png?raw=true)
+![ISO 690 stilius sąraše](imgs/zotero-style-06.png)
 
 Uždarykite nustatymų langą.
 
@@ -132,7 +132,7 @@ Uždarykite nustatymų langą.
 
 Atsidarykite programą "Zotero" paspaudę ikoną dešinėje apačioje:
 
-![Pagrindinis "Zotero" langas](csl-lithuanian/blob/master/imgs/zotero-add-01.png?raw=true)
+![Pagrindinis "Zotero" langas](imgs/zotero-add-01.png)
 
 (Galite perskaityti ir po to ištrinti bibliografinę nuorodą *"Zotero Quick Start Guide"*. Aš tiesiog ištryniau.)
 
@@ -143,15 +143,15 @@ Atsidarykite programą "Zotero" paspaudę ikoną dešinėje apačioje:
 
 Paspaudę *"New Item"* mygtuką, pamatysite įvairių šaltinių tipų sąrašą. Pavyzdžiui, galite pridėti knygą ("Book"), knygos dalį ("Book Section"), straipsnį iš mokslinio žurnalo ("Journal Article"), įrašą iš enciklopedijos ("More" -> "Encyclopedia Article") ir daug kitų šaltinių:
 
-!["Zotero" šaltinių tipai](csl-lithuanian/blob/master/imgs/zotero-add-02.png?raw=true)
+!["Zotero" šaltinių tipai](imgs/zotero-add-02.png)
 
 Aš pirmiausia pridėjau knygą:
 
-![Pridedama knyga](csl-lithuanian/blob/master/imgs/zotero-add-03.png?raw=true)
+![Pridedama knyga](imgs/zotero-add-03.png)
 
 Dešinėje užpildžiau knygos parametrus (pavadinimą, autorių, leidėją, metus, puslapių skaičių, ISBN ir kt.):
 
-![Užpildyti knygos parametrai](csl-lithuanian/blob/master/imgs/zotero-add-04.png?raw=true)
+![Užpildyti knygos parametrai](imgs/zotero-add-04.png)
 
 
 <a name="naudojimas_pridejimas_isbn"></a>
@@ -162,11 +162,11 @@ Jeigu žinote knygos ar kito leidinio ISBN, galite pridėti tiesiog jį, o progr
 
 Tingiu rašyti, todėl paspaudžiau *"Add Item by Identifier"* ir nukopijavau McLuhan'o "Understanding Media" ISBN'ą:
 
-![Knygos pridėjimas pagal ISBN](csl-lithuanian/blob/master/imgs/zotero-add-05.png?raw=true)
+![Knygos pridėjimas pagal ISBN](imgs/zotero-add-05.png)
 
 Programa pati užpildė likusius laukus (pavadinimą, autorių ir kt.):
 
-![Pridėta knyga pagal ISBN](csl-lithuanian/blob/master/imgs/zotero-add-06.png?raw=true)
+![Pridėta knyga pagal ISBN](imgs/zotero-add-06.png)
 
 
 <a name="naudojimas_pridejimas_tinklalapis"></a>
@@ -175,7 +175,7 @@ Programa pati užpildė likusius laukus (pavadinimą, autorių ir kt.):
 
 Taip pat bibliografinių nuorodų sąraše pridėsiu atsitiktinį straipsnį iš naujienų portalo (šaltinio tipas - *Web Page*):
 
-![Tinklalapio pridėjimas](csl-lithuanian/blob/master/imgs/zotero-add-07.png?raw=true)
+![Tinklalapio pridėjimas](imgs/zotero-add-07.png)
 
 
 <a name="naudojimas_iskelimas"></a>
@@ -192,11 +192,11 @@ Kai norėsite "Zotero" programoje parengtą bibliografinių nuorodų sąrašą i
 	* nukopijuoti į *iškarpinę* (angl. *Clipboard*), taigi vėliau galėsite bibliografines nuorodas kažkur įklijuoti (angl. *Paste*), arba
 	* spausdinti bibliografines nuorodas.
 
-![Bibliografinių nuorodų iškėlimas](csl-lithuanian/blob/master/imgs/zotero-export-01.png?raw=true)
+![Bibliografinių nuorodų iškėlimas](imgs/zotero-export-01.png)
 
 Aš pasirinkau iškėlimą į RTF bylą. Suformatuotos bibliografinės nuorodos byloje atrodo šitaip:
 
-![Suformatuotos bibliografinės nuorodos](csl-lithuanian/blob/master/imgs/zotero-export-02.png?raw=true)
+![Suformatuotos bibliografinės nuorodos](imgs/zotero-export-02.png)
 
 Šias nuorodas galiu nukopijuoti į savo rengiamą kursinį, bakalaurinį ar kitokio tipo darbą.
 
